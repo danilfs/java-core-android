@@ -1,8 +1,8 @@
 public class homework1 {
     public static void main(String[] args) {
-        System.out.println ("Задание 1");
+        System.out.println ("Задание номер 1");
         System.out.println(calculate(50f, 25f, 3f, -4f));
-        System.out.println("Задание 2");
+        System.out.println("Задание номер 2");
         System.out.println(numberscheck(10, 1));
         System.out.println ("Задание 3");
         numberpositiv(-8);
@@ -45,6 +45,8 @@ public class homework1 {
         String result = ("Привет ," + name + "!");
         System.out.println (result);
         return result;
+
     }
 }
+
 
