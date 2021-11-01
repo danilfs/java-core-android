@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Hw3 {
 
-    public static class GuessTheNumber1 {
+    public static class GuessTheNumber2 {
         static Scanner scanner = new Scanner(System.in);
         static Random random = new Random();
         static final int TRIES = 3;
