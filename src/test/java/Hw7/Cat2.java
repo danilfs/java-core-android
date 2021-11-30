@@ -1,3 +1,5 @@
+package Hw7;
+
 public class Cat2 {
     private String name;
     private int appetite;
@@ -21,7 +23,7 @@ public class Cat2 {
 
     @Override
     public String toString() {
-        return "Cat2{" +
+        return "Hw7.Cat2{" +
                 "name='" + name + '\'' +
                 ", appetite=" + appetite +
                 ", satiety=" + satiety +

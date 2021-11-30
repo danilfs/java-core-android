@@ -1,8 +1,10 @@
+package Hw6;
+
 public class Dog extends Animal{
     private static int counter;
 
     Dog(String name, int maxRun, int maxSwim) {
-        super("Dog", name, maxRun, maxSwim);
+        super("Hw6.Dog", name, maxRun, maxSwim);
         counter++;
     }
 
