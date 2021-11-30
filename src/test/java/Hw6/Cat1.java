@@ -1,3 +1,5 @@
+package Hw6;
+
 public class Cat1 extends Animal{
     private static final int CAT_MAX_RUN = 200;
     private static int counter;

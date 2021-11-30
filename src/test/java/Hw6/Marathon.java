@@ -1,3 +1,5 @@
+package Hw6;
+
 public class Marathon {
     public static void main(String[] args) {
         //Создать классы Собака и Кот с наследованием от класса Животное.
