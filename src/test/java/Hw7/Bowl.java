@@ -1,3 +1,5 @@
+package Hw7;
+
 public class Bowl {
     private static int foodAmount;
 
