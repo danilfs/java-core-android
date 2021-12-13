@@ -1,3 +1,5 @@
+package Hw6;
+
 public class Animal {
     private static int counter;
     private String type;
